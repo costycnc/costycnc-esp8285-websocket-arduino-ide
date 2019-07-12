@@ -5,3 +5,5 @@
       
       Load WebSocketServer.ino change WiFiMulti.addAP("user", "password");
       compile and upload to esp8266 
+      
+      another example ... not try yet ... https://tttapa.github.io/ESP8266/Chap14%20-%20WebSocket.html
